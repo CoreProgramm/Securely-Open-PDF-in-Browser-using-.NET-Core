@@ -1,0 +1,60 @@
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.deps.json
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.runtimeconfig.json
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.runtimeconfig.dev.json
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.dll
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.pdb
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.Views.dll
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.Views.pdb
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.csproj.CoreCompileInputs.cache
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.RazorAssemblyInfo.cache
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.RazorAssemblyInfo.cs
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.AssemblyInfoInputs.cache
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.AssemblyInfo.cs
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.TagHelpers.input.cache
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.TagHelpers.output.cache
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.RazorCoreGenerate.cache
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.RazorTargetAssemblyInfo.cache
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.RazorTargetAssemblyInfo.cs
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.Views.pdb
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.dll
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.pdb
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.csproj.CopyComplete
+D:\Practice\Core\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.csprojAssemblyReference.cache
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.deps.json
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.runtimeconfig.json
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.runtimeconfig.dev.json
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.dll
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.pdb
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.Views.dll
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\bin\Debug\netcoreapp2.2\PDFOnBrowser.Views.pdb
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.csprojAssemblyReference.cache
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.csproj.CoreCompileInputs.cache
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.RazorAssemblyInfo.cache
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.RazorAssemblyInfo.cs
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.AssemblyInfoInputs.cache
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.AssemblyInfo.cs
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.TagHelpers.input.cache
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.TagHelpers.output.cache
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.RazorCoreGenerate.cache
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.RazorTargetAssemblyInfo.cache
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.RazorTargetAssemblyInfo.cs
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.Views.pdb
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.dll
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.pdb
+D:\JT\CoreProgramm\Blog\.NET Core\PDFOnBrowser\PDFOnBrowser\PDFOnBrowser\obj\Debug\netcoreapp2.2\PDFOnBrowser.csproj.CopyComplete

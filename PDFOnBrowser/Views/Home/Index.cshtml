@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<script type="text/javascript">
+    function OpenPDFByPath() {
+        $.ajax({
+            method: 'GET',
+            url: '@Url.Action("OpenPDFPath", "Home")',
+            data: {}
+        }).done(function (data, statusText, xhdr) {
+            var URL = "../" + data;
+            window.open(URL, "", "width=700,height=600");
+        }).fail(function (xhdr, statusText, errorText) {
+
+        });
+    }
+    function OpenPDFHidingPath() {
+        window.open('@Url.Action("OpenPDF", "Home")', "", "width=700,height=600")
+    }
+</script>
+<div class="row">
+    <div class="col-md-6">
+      <h2>PDF Open with Physical Path</h2> <a href="#" onclick="OpenPDFByPath()">Click here to Open PDF</a> 
+    </div>
+    <div class="col-md-6">
+        <h2>PDF Open with hiding Physical Path</h2> <a href="#" onclick="OpenPDFHidingPath()">Click here to Open PDF</a>  
+    </div>
+</div>
